@@ -9,7 +9,7 @@ Sometimes I blog about the things that I'm learning. These are my latest article
 - [Cómo añadir fallbacks a las nuevas propiedades de CSS](https://www.sussie.dev/es/blog/como-anadir-fallbacks-a-las-nuevas-propiedades-de-css)
 - [¿Cómo me fue probando Contentful?](https://www.sussie.dev/es/blog/probando-contentful)
 
-I also have a community of **women engineers** where we join virtually every Thursday nights to talk about different topics. We have learned from our experiences and have managed to get to know each other. You can join [here](https://cafeconingenieras.com/) if you want.
+I also have a community of **women engineers**. We meet virtually every Thursday nights to talk about different topics. We have learned from our experiences and we have managed to get to know each other. You can join [here](https://cafeconingenieras.com/) if you want.
 
 ## 🤓 What I work with
 - Javascript
@@ -24,7 +24,7 @@ I also have a community of **women engineers** where we join virtually every Thu
 - Painting 🎨 
 - Traveling ✈️ 
 
-## 📍 You can follow me
+## 📍 Where you can find me
 - [My website](https://www.sussie.dev/)
 - [Twitter](https://twitter.com/SusCasasola)
 - [CodePen](https://codepen.io/SusCasasola)
