@@ -25,7 +25,7 @@ I also have a community of **women engineers** where we join virtually every Thu
 - Traveling ✈️ 
 
 ## 📍 You can follow me
-- [My website]()
-- [Twitter]()
-- [CodePen]()
-- [Codesandbox]()
+- [My website](https://www.sussie.dev/)
+- [Twitter](https://twitter.com/SusCasasola)
+- [CodePen](https://codepen.io/SusCasasola)
+- [Codesandbox](https://codesandbox.io/u/SusCasasola)
