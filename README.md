@@ -16,7 +16,6 @@ I also have a community of **women engineers**. We meet virtually every Thursday
 - CSS & HTML
 - React, React Native
 - NextJS
-- Contentful
 
 ## 💜 What I enjoy doing outside work
 - Reading 📚
