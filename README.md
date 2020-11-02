@@ -9,13 +9,15 @@ Sometimes I blog about the things that I'm learning. These are my latest article
 - [Cómo añadir fallbacks a las nuevas propiedades de CSS](https://www.sussie.dev/es/blog/como-anadir-fallbacks-a-las-nuevas-propiedades-de-css)
 - [¿Cómo me fue probando Contentful?](https://www.sussie.dev/es/blog/probando-contentful)
 
-I also have a community of **women engineers**. We meet virtually every Thursday nights to talk about different topics. We have learned from our experiences and we have managed to get to know each other. You can join [here](https://cafeconingenieras.com/) if you want.
+I also collaborate with a community of **women engineers** named "Café con Ingenieras". We meet virtually every Thursday nights to talk about different topics, it's a safe space where we share and learn from our experiences. You can join [here](https://cafeconingenieras.com/).
 
 ## 🤓 What I work with
 - Javascript
 - CSS & HTML
 - React, React Native
 - NextJS
+- Contentful
+- Netlify
 
 ## 💜 What I enjoy doing outside work
 - Reading 📚
