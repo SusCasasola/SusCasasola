@@ -1,5 +1,3 @@
-![Pink laptop and notebooks](./assets/github-banner.jpg)
-
 # Sussie Casasola - @SusCasasola
 
 I am a Frontend Engineer currently working at **Nubank**. 👩🏻‍💻
