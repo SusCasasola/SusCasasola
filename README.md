@@ -1,6 +1,6 @@
 # Sussie Casasola - @SusCasasola
 
-I am a Frontend Engineer currently working in Mexico City 👩🏻‍💻🇲🇽
+I am a Frontend Engineer from Mexico 🇲🇽 living in Berlin 🇩🇪.
 
 Sometimes I blog about the things that I'm learning. These are my latest articles:
 - [Tips para destacar en tu prueba técnica de Frontend](https://www.sussie.dev/es/blog/tips-para-destacar-en-tu-prueba-tecnica-de-front)
