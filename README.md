@@ -7,7 +7,7 @@ I am a Frontend Engineer from Mexico City 🇲🇽 living in Berlin 🇩🇪.
 - Javascript
 - Design Systems
 - Animations
-- UI/UX design
+- UI/UX Design
 - Accessibility
 
 ## 📍 Where you can find me
