@@ -1,3 +1,5 @@
+![Pink laptop and notebooks](./assets/github-banner.jpg)
+
 # Sussie Casasola - @SusCasasola
 
 I am a Frontend Engineer from Mexico City 🇲🇽 living in Berlin 🇩🇪.
