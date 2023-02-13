@@ -2,12 +2,13 @@
 
 I am a Frontend Engineer from Mexico City 🇲🇽 living in Berlin 🇩🇪.
 
-## 🤓 What I work with
-- CSS & HTML
+## 🤓 My interests
+- CSS
 - Javascript
-- Typescript
-- React JS, React Native, Next JS
-- Vue JS
+- Design Systems
+- Animations
+- UI/UX design
+- Accessibility
 
 ## 📍 Where you can find me
 - [Linkedin](https://www.linkedin.com/in/suscasasola/)
