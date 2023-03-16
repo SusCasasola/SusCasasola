@@ -1,4 +1,4 @@
-![Plant, keyboard and glasses](./hero.jpg)
+![pattern](./hero.png)
 
 # Sussie Casasola - @SusCasasola
 
