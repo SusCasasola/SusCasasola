@@ -1,4 +1,4 @@
-![Pink laptop and notebooks](./assets/github-banner.jpg)
+![Plant, keyboard and glasses](./hero.jpg)
 
 # Sussie Casasola - @SusCasasola
 
@@ -13,6 +13,6 @@ I am a Frontend - UI Engineer from Mexico 🇲🇽 now living in Berlin 🇩🇪
 - Accessibility
 
 ## 📍 Where you can find me
+- [Twitter](https://twitter.com/SusCasasola)
 - [Linkedin](https://www.linkedin.com/in/suscasasola/)
 - [CodePen](https://codepen.io/SusCasasola)
-- [Codesandbox](https://codesandbox.io/u/SusCasasola)
