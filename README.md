@@ -2,7 +2,7 @@
 
 # Sussie Casasola - @SusCasasola
 
-I am a Frontend - UI Engineer from Mexico 🇲🇽 now living in Berlin 🇩🇪.
+I am a Frontend & Design Engineer from Mexico 🇲🇽 now living in Berlin 🇩🇪.
 
 ## 🤓 My interests
 - CSS
